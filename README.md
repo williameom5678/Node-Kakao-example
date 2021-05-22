@@ -7,3 +7,6 @@ en : Using this script can make you an OUTLAW.<br>
 
 단순히 학습 용도로만 사용 바랍니다.<br>
 PLEASE use this script only for LEARNING purposes ONLY.
+
+# 준비물
+1. node-kakao 패키지
