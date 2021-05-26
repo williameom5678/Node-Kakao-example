@@ -5,9 +5,9 @@ let pw = "1q2w3e4r5t";
 let uuid = "Run UUID.js first.";
 let device_name = "OutLaw";
 
-const client1 = new kakao.TalkClient();
+const client = new kakao.TalkClient();
 kakao.AuthApiClient.create(device_name, uuid).then(api => {
-    login(client1, api, id, pw);
+    login(client, api, id, pw);
 });
 const login = (client, api, email, password) => {
     const form = {
