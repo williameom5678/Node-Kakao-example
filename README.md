@@ -1,5 +1,6 @@
 # simple-node-kakao-login
 just a stupid login script
+It's BROKEN.
 
 # 주의 사항(WARNING)
 en : Using this script can make you an OUTLAW.<br>
